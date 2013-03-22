@@ -1,0 +1,122 @@
+<Composer title="Druckzusammenstellung 3" visible="1">
+ <Composition printResolution="304" paperWidth="210" snapGridOffsetX="0" snapGridResolution="0" snapGridOffsetY="0" snapping="0" numPages="1" paperHeight="297" printAsRaster="0">
+  <ComposerPicture pictureWidth="10" file="./logos/north-arrow_3_simple_symmetric_triangular_ziegler.svg" pictureHeight="10" mapId="0">
+   <ComposerItem width="10" x="188" y="18.5" rotation="0" height="10" frame="false" outlineWidth="0.3" zValue="32" lastValidViewScaleFactor="2.30537" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" labelText="Richtplan" halign="1" margin="0">
+   <LabelFont description="Frutiger 55 Roman,16,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="102.321" x="17" y="11" rotation="0" height="8.45794" frame="false" outlineWidth="0.3" zValue="30" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Massstab:" halign="1" margin="0">
+   <LabelFont description="Frutiger 55 Roman,7,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="13" x="17" y="23" rotation="0" height="4" frame="false" outlineWidth="0.3" zValue="20" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" labelText="Tel. 032 627 25 61, Fax 032 627 76 82, arp@bd.so.ch, www.arp.so.ch" halign="2" margin="0">
+   <LabelFont description="Frutiger 55 Roman,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="4" x="11" y="10" rotation="270" height="98.2829" frame="false" outlineWidth="0.3" zValue="16" lastValidViewScaleFactor="2.30537" id="" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="128" labelText="Amt für Raumplanung, Abteilung Grundlagen / Richtplanung, Werkhofstrasse 59, 4509 Solothurn" halign="1" margin="0">
+   <LabelFont description="Frutiger 55 Roman,6,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="4" x="11" y="190" rotation="270" height="97.0659" frame="false" outlineWidth="0.3" zValue="16" lastValidViewScaleFactor="2.30537" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture pictureWidth="50" file="./logos/kanton_4f.svg" pictureHeight="15" mapId="-1">
+   <ComposerItem width="50" x="145" y="8" rotation="0" height="15" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="2.30537" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerLabel valign="32" labelText="$CURRENT_DATE(dd.MM.yyyy)" halign="1" margin="0">
+   <LabelFont description="Frutiger 55 Roman,7,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="15.6684" x="40" y="20" rotation="0" height="3.91709" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Erstellungsdatum:" halign="1" margin="0">
+   <LabelFont description="Frutiger 55 Roman,7,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="23.0506" x="17" y="20" rotation="0" height="3.91709" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Aus den Daten können keine rechtlichen Ansprüche, &#xa;insbesondere auch keine Haftung des Kantons abgeleitet werden." halign="1" margin="0">
+   <LabelFont description="Frutiger 55 Roman,7,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="79.1052" x="65" y="20" rotation="0" height="6.81699" frame="false" outlineWidth="0.3" zValue="10" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerScaleBar segmentMillimeters="0" numMapUnitsPerScaleBarUnit="1" numSegments="2" height="5" alignment="0" labelBarSpace="1" outlineWidth="0.11" units="0" numSegmentsLeft="0" style="Numeric" unitLabel="" font="Frutiger 55 Roman,7,-1,5,50,0,0,0,0,0" mapId="0" boxContentSpace="0" numUnitsPerSegment="0">
+   <BrushColor red="0" blue="0" green="0"/>
+   <ComposerItem width="6" x="40.2" y="23.3" rotation="0" height="2.4" frame="false" outlineWidth="0" zValue="8" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewFrameMap="-1">
+    <symbol outputUnit="MM" alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="color" v="255,0,0,125"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="234787" xmin="592320" ymax="234917" xmax="592413"/>
+   <LayerSet/>
+   <Grid gridStyle="1" crossLength="3" intervalX="50" offsetX="0" intervalY="50" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" show="1">
+    <symbol outputUnit="MM" alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="square"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.2"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="1" format="0" topPosition="0" precision="0" leftDirection="0" rightPosition="0" bottomPosition="0" frameDistance="4" show="1" font="CadastraCondensed,8,-1,5,50,2,0,0,0,0" leftPosition="0" topDirection="1"/>
+   </Grid>
+   <ComposerItem width="185" x="15" y="28" rotation="0" height="259" frame="true" outlineWidth="0.2" zValue="5" lastValidViewScaleFactor="2.30537" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerShape shapeType="1" shapeWidth="185" outlineWidth="0" transparentFill="1" shapeHeight="18">
+   <OutlineColor alpha="255" red="0" blue="0" green="0"/>
+   <FillColor alpha="255" red="0" blue="0" green="0"/>
+   <ComposerItem width="185" x="15" y="10" rotation="0" height="18" frame="true" outlineWidth="0.2" zValue="1" lastValidViewScaleFactor="4.61074" id="" positionLock="true">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerShape>
+ </Composition>
+</Composer>
